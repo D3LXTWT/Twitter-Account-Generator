@@ -1,6 +1,6 @@
 ## ☄️Presenting the Classic Twitter Account Generator☄️
  
-## Are you eager to launch your Twitter venture? Your search ends here! Our cutting-edge Twitter Account Generator,written in Golang, is the ultimate answer. 🔥 
+- Are you eager to launch your Twitter venture? Your search ends here! Our cutting-edge Twitter Account Generator,written in Golang, is the ultimate answer. 🔥 
 
 ![image](https://github.com/user-attachments/assets/2301f38b-6341-4c91-9a24-d0fb2327509d)
 
